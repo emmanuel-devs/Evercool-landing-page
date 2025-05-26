@@ -73,5 +73,14 @@ This is a **conceptual build** of a startup hydration product, designed with **F
 
 ```markdown
 ![Hero Preview](./assets/evercool-hero.png)
-![Product Viewer](./assets/evercool-360.png)
-![Color Selector](./assets/evercool-selector.png)
+```
+
+---
+
+### 💬 Need a site like EverCool?
+Let’s build a professional presence for your service business →
+ 📩 Reach me at 👇👇
+- **LinkedIn**: [in/emmanuelsamuel](www.linkedin.com/in/emmanuel-samuels)
+- **Email**: [emmanuelsamuel.dev@gmail](mailto:emmanuelsamuel.dev@gmail.com)
+- **WhatsApp**: [wa.me/2348065222492](https://wa.me/2348065222492?text=Hi%20Emmanuel%2C%20I%27m%20interested%20in%20a%20smart%20website%20project%20for%20my%20local%20business.%20Let%27s%20talk!
+)
